@@ -30,5 +30,6 @@ Big O complexity
 <img width="642" height="392" alt="image" src="https://github.com/user-attachments/assets/249103e5-e38e-41f4-93bb-725809734bb0" />
 
 
-#Queue
+# Queue
+
 <img width="669" height="446" alt="image" src="https://github.com/user-attachments/assets/392d0dfa-478d-4f0d-92f3-97d21de613fe" />
